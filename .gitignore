@@ -1,0 +1,5 @@
+.idea
+*.pyc
+snapshots
+outputs.pkl
+.DS_Store
